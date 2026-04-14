@@ -1,0 +1,47 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Delicious healthy food spread",
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1200&h=600&auto=format&fit=crop",
+      "imageHint": "food spread healthy"
+    },
+    {
+      "id": "restaurant-1",
+      "description": "Modern Italian restaurant interior",
+      "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=600&h=400&auto=format&fit=crop",
+      "imageHint": "restaurant interior italian"
+    },
+    {
+      "id": "restaurant-2",
+      "description": "Cozy burger joint",
+      "imageUrl": "https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=600&h=400&auto=format&fit=crop",
+      "imageHint": "restaurant burger"
+    },
+    {
+      "id": "restaurant-3",
+      "description": "Authentic sushi bar",
+      "imageUrl": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=600&h=400&auto=format&fit=crop",
+      "imageHint": "sushi restaurant"
+    },
+    {
+      "id": "dish-1",
+      "description": "Classic Margherita Pizza",
+      "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbad80ad38?q=80&w=400&h=400&auto=format&fit=crop",
+      "imageHint": "margherita pizza"
+    },
+    {
+      "id": "dish-2",
+      "description": "Truffle Mushroom Burger",
+      "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=400&h=400&auto=format&fit=crop",
+      "imageHint": "gourmet burger"
+    },
+    {
+      "id": "dish-3",
+      "description": "Premium Sashimi Set",
+      "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?q=80&w=400&h=400&auto=format&fit=crop",
+      "imageHint": "sashimi platter"
+    }
+  ]
+}
